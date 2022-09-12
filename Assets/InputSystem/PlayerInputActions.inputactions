@@ -1,0 +1,33 @@
+{
+    "name": "PlayerInputactions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "b2d78a03-c61b-4060-a17a-99521f24517e",
+            "actions": [
+                {
+                    "name": "Fire",
+                    "type": "Button",
+                    "id": "878e6d4f-b003-4aee-a556-40ca5b751109",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Hold,Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f8709871-f614-425f-a64a-a189dbac3559",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
